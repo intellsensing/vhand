@@ -1,6 +1,8 @@
 import socket
 import subprocess
 
+__all__ = ['VirtualHand']
+
 
 class VirtualHand(object):
     """VRE virtual hand interface in Python.
