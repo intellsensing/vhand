@@ -75,7 +75,8 @@ class VirtualHand(object):
             Direction to move. 0 indicates flexion and 1 extension.
 
         distance_n : int
-            Distance to move in given direction (nominator).
+            Distance to move in given direction (nominator). Supported range is
+            from 0 to 9.
 
         distance_d : int (default 1)
             Distance to move in given direction (denominator).
