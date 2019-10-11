@@ -1,7 +1,7 @@
 # vhand
 Virtual Reality Environment (VRE) Python interface.
 
-The virtual hand implementation is part of the [biopatrec](https://github.com/biopatrec/biopatrec) library.
+The virtual hand implementation is part of the [biopatrec](https://github.com/biopatrec/biopatrec) library. The documentation of the implementation can be found [here](https://github.com/biopatrec/biopatrec/wiki/VRE.md) and [here](https://github.com/biopatrec/biopatrec/wiki/VRE_Protocol.md).
 
 Here's a minimal example to initalize a session with a right arm and move the index finger (it is assumed that the VRE application is already running).
 
